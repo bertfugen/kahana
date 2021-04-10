@@ -2,15 +2,10 @@
 <html>
 
 <body>
-
   <p>Перед скриптом...</p>
-
   <script src="js/carousel">
-    
   </script>
-
   <p>...После скрипта.</p>
-
 </body>
 
 </html>
