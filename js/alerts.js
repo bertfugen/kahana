@@ -3,7 +3,7 @@
 //test//
 alert( 'Привет, мир!' );
 
-let admin, name;
-name = "John";
-admin = name;
+let admin, nameAd;
+nameAd = "John";
+admin = nameAd;
 alert(admin);
