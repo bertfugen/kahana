@@ -1,4 +1,5 @@
 'use strict';
 
 //test//
-alert( 'Привет, мир!' );
+let yourName = prompt('Your name', '')
+alert( yourName );
